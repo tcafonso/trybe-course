@@ -1,0 +1,26 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+#favourite-colour {
+    background-color: peachpuff;
+    line-height: 20px;
+}
+
+.style {
+    background-color: peru;
+    font-style: italic;
+}
+
+p {
+  font-weight: 600;
+  font-size: 3em;
+  text-align: center;
+}
+
+body {
+  font-size: 16px;
+}
